@@ -1,0 +1,429 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony for all the masters of ships and seamen to read over Reprinted the second time, with an addition. By George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40275</idno>
+            <idno type="STC">Wing F1927A</idno>
+            <idno type="STC">ESTC R220251</idno>
+            <idno type="EEBO-CITATION">99831673</idno>
+            <idno type="PROQUEST">99831673</idno>
+            <idno type="VID">36138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36138)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony for all the masters of ships and seamen to read over Reprinted the second time, with an addition. By George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by Wing.</note>
+                  <note>"Concerning how the world is called the sea" has caption title on p. 16.</note>
+                  <note>Includes a postscript (pp. 19-24).</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Inner Light --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36138:1" rendition="simple:additions"/>
+            <p>A TESTIMONY FOR ALL THE MASTERS of SHIPS and SEAMEN TO READ OVER.</p>
+            <p>And to ſee whether they be in the True Faith that the True Chriſtians and the Holy Men of God were in, and if you be not, then turn to the Lord Jeſus Chriſt, who is the Author and Finiſher of the Holy, Divine, and Precious Faith; and then by this Faith your Hearts may be purified, and with your Hearts ye may believe, and with your Mouths ye may make Confeſſi<g ref="char:EOLhyphen"/>on unto Salvation, <hi>Rom.</hi> 10.</p>
+            <p>And Chriſt ſaith, <hi>Every one that is of the Truth heareth his Voice,</hi> John 18.37. And now every one that is not of the Truth heat<g ref="char:EOLhyphen"/>eth not his Voice, and ſay there is no hearing of it now adayes.</p>
+            <p>And here you may ſee how Chriſt called Fiſher-men and Sea-men to be his Diſciples, as followeth: And how Chriſt commanded the Winds and they obeyed him; and how that the Lord God holds the Winds in his Fiſt, and raiſeth a Storm and makes a Calm, ſo that all are to ſerve and fear him. Take unto me ſaith the Lord, all the ends of the Earth be ſaved.</p>
+            <p>
+               <hi>Reprinted the Second time, with an Addition.</hi>
+            </p>
+            <p>By <hi>George Fox.</hi>
+            </p>
+            <q>
+               <hi>Quench not the Spirit, diſpiſe not propheſying; prove all things, hold faſt that which is good,</hi>
+               <bibl> 1 Theſ. 19, 20, 21.</bibl>
+            </q>
+            <p>Who quench the Spirit, and diſpiſe Propheſying are not like to prove all things nor hold faſt that which is good.</p>
+            <p>Printed in the Year 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:36138:2"/>
+            <pb n="3" facs="tcp:36138:2"/>
+            <head>A TESTIMONY FOR ALL THE MASTERS of SHIPS and SEAMEN TO READ OVER; &amp;c.</head>
+            <p>
+               <hi>AFter that</hi> John <hi>was put in priſon, Jeſus came into</hi> Galilee <hi>preaching the Goſpel of the Kingdom of God, and ſaying, the time is fulfilled, and the Kingdom of God is at hand, repent ye, and believe the Goſpel,</hi> Mark. 1.</p>
+            <p>
+               <hi>From that time Jeſus began to preach, and to ſay, Repent; for the Kingdom of Heaven is at hand.</hi>
+            </p>
+            <p>
+               <hi>And Jeſus walking by the Sea of</hi> Galilee <hi>ſaw two Brethren,</hi> Simon <hi>called</hi> Peter <hi>and</hi> Andrew <hi>his Brother caſting a Net into the Sea (for they were Fiſhers.)</hi>
+            </p>
+            <p>
+               <hi>And Jeſus ſaid unto them, Follow me, and I will make you Fiſhers of men, and they ſtraitway left their Nets and followed him.</hi>
+            </p>
+            <p>
+               <hi>And Jeſus going on from thence he ſaw two Brethren,</hi> James <hi>the Son of</hi> Zebedee <hi>and</hi> John <hi>his Brother in a Ship with</hi> Zebedee <hi>their Father mending their Nets, and he called them.</hi>
+            </p>
+            <p>
+               <hi>And immediately they left the Ship and their Father, and followed Je<g ref="char:EOLhyphen"/>ſus,</hi> Mat. 4.17.18, 19, 20, 21, 22. Mark. 1.15, 16, 17, 18, 19, 20.</p>
+            <p>Now here all ye Sea-men and Fiſher-men, and all people may ſee, theſe four Diſciples of Chriſt their Call, and what trades they were of, Fiſher-men and Sea-men, theſe and ſuch were more like to follow Jeſus then and now, then the High-Prieſts that had the Tythes, and ſuch as have great Benefices.</p>
+            <pb n="4" facs="tcp:36138:3"/>
+            <p>But Chriſt is the ſame to day, as he was yeſterday, and ſo for ever; for it was not many mighty and rich, but the poor that received the Goſpel:</p>
+            <p>
+               <hi>And when Jeſus was entered into a Ship, his Diſciples followed him, and behold! there aroſe a great Tempeſt in the Sea, inſomuch that the Ship was covered with the Waves, but Jeſus was aſleep.</hi>
+            </p>
+            <p>
+               <hi>And his Diſciples came to him and awoke him, ſaying, Lord ſave us, we periſh.</hi> Mark, in the time of a Storm theſe Fiſher-men came to Chriſt, and ſo ſhould all Sea-men do now. <hi>And he ſaid to them, why are ye fearful, O ye of little Faith? Then he aroſe and rebuked the Winds, and Sea, and there was a great Calm.</hi>
+            </p>
+            <p>
+               <hi>But the men marvelled ſaying, what manner of man is this, that even the Winds and the Sea obey him?</hi>
+            </p>
+            <p>Now all ye Sea-men and Fiſher-men, let your Eyes be to Chriſt, and your Faith in him that hath all Power in Heaven and in Earth given to him; and can ſtill the Storms and Tempeſts and Waves of the Sea, and make it Calm.</p>
+            <p>And ſo Chriſt it is that ſaves you from periſhing outwardly, and eternally, as you may ſee, <hi>Mat.</hi> 8.23, 24, 25, 26, 27. and <hi>Mark</hi> 4.36, 37, 38, 39, 40, 41. and <hi>Luke</hi> 8.22, 23, 24, 25.</p>
+            <p>For both the Winds and the Sea do obey Chriſt, by whom they were made; therefore fear God, and let your faith ſtand in him, who is the author and finiſher of it.</p>
+            <p>
+               <hi>And Jeſus began to teach by the Sea Side, and there was gathered unto him a great Multitude, ſo that he entered into a Ship and ſate in the Sea</hi> (to wit, in the <hi>Ship,) and the whole Multitude was by the Sea on the Land,</hi> as you may ſee, <hi>Mat.</hi> 13. <hi>Mark.</hi> 4.1. <hi>and he taught them many things by Parables,</hi> &amp;c.</p>
+            <p>Now would not many ſay, that it was not a conſecrated place to teach the Word of God in; but I muſt tell you, Chriſt conſecrates and makes all things and places holy.</p>
+            <p>Now <hi>Peter</hi> who was a Fiſher-man, Chriſt ſaid unto him and the reſt of his company of Fiſher-men, that he would make them fiſhers of men, and bid them follow him, which they did.</p>
+            <p>And you may ſee in <hi>Acts</hi> 2. how <hi>Peter</hi> the Fiſher-man by one Ser<g ref="char:EOLhyphen"/>mon that he preached converted Three Thouſand Souls, as you may ſee from the 14th verſe to the 41ſt the Beginning and End of his Ser<g ref="char:EOLhyphen"/>mon.</p>
+            <p>And now all ye Sea men and Fiſher-men conſider this Call of Chriſt, who is the ſame to day as yeſterday, and ſo for ever to you, if you
+<pb n="5" facs="tcp:36138:3"/>will hear hear his voice; for he ſtands at the door of your hearts and knocks, and if any will hear my voice, faith Chriſt, and open his Door (to wit, of his Heart) by joyning to his Grace, Light, Power and Spirit, he will come in and ſup with you, and ye with him, <hi>Rev.</hi> 3.21. And ſo the Sheep of Chriſt hear his voice and fol<g ref="char:EOLhyphen"/>low him, <hi>John</hi> 10. for <hi>Peter</hi> the <hi>Fiſher-man</hi> ſaid to the <hi>Jews,</hi> how in the laſt dayes <hi>God would pour out his Spirit upon all Fleſh, and your Sons and Daughters ſhall propheſie, and your young men ſhall ſee viſions, and your old men ſhall dream dreams; and on my Servants, and on my Hand maids I will pour out in thoſe dayes of my Spirit, and they ſhall propheſie ſaith the Lord,</hi> &amp;c.</p>
+            <p>And now if God hath poured out of his Spirit upon all Fleſh, and you grieve it, and quench it, and vex it, then how can you prophe<g ref="char:EOLhyphen"/>ſie, or have any of theſe ſpiritual Dreams, or viſions, or believe or receive this fiſher-mans Sermon, who was a Diſciple of Chriſt?</p>
+            <p>And again in <hi>Mat.</hi> 14.24. &amp;c. <hi>And Jeſus conſtrained his Diſciples to go into a Ship, and to go before him,</hi> &amp;c. <hi>But the Ship was now in the midſt of the Sea toſſed with Waves; for the Wind was contrary. And in the forth Watch of the Night Jeſus went unto them walking on the Sea; and when the Diſciples ſaw him walk on the Sea they were troubled, ſay<g ref="char:EOLhyphen"/>ing, it is a Spirit, and they cryed out for Fear, but Jeſus ſpake unto them, ſaying, Be of good cheer, it is I, be not afraid: And</hi> Peter <hi>anſwered him and ſald; Lord, if it be thou bid me come unto thee on the Water, and he ſaid, Come; and when</hi> Peter <hi>was come down out of the Ship, he walked on the Water to go to Jeſus: But when he ſaw the Wind boyſterous he was afraid; and beginning to ſink he cryed ſaying, Lord, ſave me: And immediately Jeſus ſtretched forth his Hand and caught him, and ſaid unto him, O thou little Faith, wherefore didſt thou doubt? And when they were come into the ſhip, the Wind ceaſed: Then they that were in the ſhip worſhipped him ſaying, Of a Truth thou art the Son of God.</hi>
+            </p>
+            <p>And now here all Sea-men and others you may ſee it is Chriſt that ſaves, and ſtills the boyſterous Winds and Waves, and makes them to ceaſe; and therefore ye are not to doubt, but be ſtedfaſt in Faith in all Storms and Tempeſts, and ſee and feel Jeſus to lay hold upon you, as he did upon <hi>Peter,</hi> to ſave you from ſinking in time of ſtorms, who ſtills the Waves of the Sea, who is the ſame to day, as he was yeſterday, and ſo for ever: A Rock of your Age, and a Foundation of your Generation, as he was of former Ages, as you may ſee <hi>Mat.</hi> 14. from verſe 22. to verſe 33. and <hi>John.</hi> 6.17, 18, 19, 20, 21.</p>
+            <pb n="6" facs="tcp:36138:4"/>
+            <p>And again in <hi>Mark</hi> 6. from 47. to 51. there you Sea-men may ſee, <hi>When Chriſt's Diſciples entered the Ship, they had forgotten to take Bread, neither had they in the ſhip with them more then one Loaf.</hi>
+            </p>
+            <p>
+               <hi>And Chriſt charged them, ſaying, Take heed of the Leaven of the</hi> Phariſees, <hi>and of the Leaven of</hi> Herod.</p>
+            <p>
+               <hi>And the Diſciples reaſoned among themſelves, ſaying, It is becauſe we have no Bread.</hi>
+            </p>
+            <p>
+               <hi>And when Jeſus knew it, he ſaid unto them, Why reaſon ye becauſe ye have no Bread? Perceive ye not, neither underſtand? Have ye your Hearts yet hardned, having Eyes and ſee ye not? And having Ears, and hear ye not?</hi>
+            </p>
+            <p>
+               <hi>For do you not remember, when I broke the five Loaves among five Thou<g ref="char:EOLhyphen"/>ſand, how many Baskets full of Fragments took ye up? And they ſaid, Twelve.</hi>
+            </p>
+            <p>
+               <hi>And when the ſeven</hi> (to wit, Loaves) <hi>among four Thouſand how ma<g ref="char:EOLhyphen"/>ny Baskets full of Fragments took ye up? and they ſaid, Seven. And Je<g ref="char:EOLhyphen"/>ſus ſaid unto his Diſciples, How is it that ye do not underſtand?</hi>
+            </p>
+            <p>Now conſider ye Seamen and Fiſher-men, and others, that are not Diſciples of Chriſt; for ſometimes in your Ships ye have been in ſcar<g ref="char:EOLhyphen"/>city of Bread; and now here was Chriſt and his Diſciples which had but one Loaf in the Ship, and Chriſt convinceth them that they had enough, by his former Miracles.</p>
+            <p>And therefore they that have Chriſt, they have enough, they have him, by whom all things were made, who gives the Encreaſe, as you may ſee by his Miracles.</p>
+            <p>And therefore it is good for every one to ſee with the pure Eye, and hear with the Pure Ear, ſo that they may perceive and underſtand with the pure Heart what Chriſt did and doth do; and what he is able to do in all Neceſſities, and to take heed of <hi>Herod</hi>'s and the <hi>Fair-ſayers</hi> Leaven, which are not the Doers, but reſiſt Chriſt, who doth not only ſay, but doth the Will of his Father, and ſo do all them that follow him, <hi>Mark.</hi> 8.13, 14, 15, 16, 17, 18, 19, 20, 21. <hi>Mat.</hi> 16.6, 7, 8, 9, 10, 11, 12.</p>
+            <p>
+               <hi>And again Chriſt ſaw two Ships ſtanding by the Lake, but the Fiſher<g ref="char:EOLhyphen"/>men were gone out of them, and were waſhing their Nets; And he entered into one of the Ships which was</hi> Simon<hi>'s, and prayed him that he would thruſt out a little from the Land, and he ſate down and taught the People out of the Ship. Now when he had left ſpeaking, he ſaid un<g ref="char:EOLhyphen"/>to</hi> Simon, <hi>Lanch out into the deep, and let down your Nets for a Draught.</hi>
+            </p>
+            <pb n="7" facs="tcp:36138:4"/>
+            <p>
+               <hi>And</hi> Simon <hi>anſwered and ſaid unto him; Maſter, We have toyled all Night, and have taken nothing; nevertheleſs at thy word I will let down the Net.</hi>
+            </p>
+            <p>
+               <hi>And when they had let down the Net they encloſed a great Multitude of Fiſhes, and their Net brake; and they beckoned unto their Partners which were in the other Ship, that they ſhould come and help them; and they came and filled both the Ships, ſo that they beg<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to ſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k: And when</hi> Simon Peter <hi>ſaw it, he fell down at Jeſus's Knees ſaying, Depart from me; for I am a ſinful man, O Lord.</hi>
+            </p>
+            <p>
+               <hi>For</hi> Peter <hi>was aſtoniſhed, and all that were with him at the Draught of Fiſhes which they had taken; And ſo was alſo</hi> James <hi>and</hi> John <hi>the Son of</hi> Zebedee, <hi>which were Partners with</hi> Simon; <hi>And Jeſus ſaid unto</hi> Simon, <hi>Fear not, from hence forth thou ſhalt catch men. And when they had brought their Ships to Land, they forſook all and followed Jeſus.</hi>
+            </p>
+            <p>Now here all you Seamen and Fiſher-men and others may ſee that you may toyl all night to catch outward Fiſh with the nets, and take nothing.</p>
+            <p>And you that call your ſelves <hi>Fiſhers of Men,</hi> you may toyl all the night and catch not a manin God's Net to him, except it be with the Power of Chriſt, and know his Voice and obey it and follow him, by whom all things were made.</p>
+            <p>And ſo there is not a Sparrow that falls to the Ground, nor a Fiſh in a Fiſherman's Net, but by the Will of the father.</p>
+            <p>And therefore all ye Fiſher-men and others are to ſtand in the Will of God, who gives the Encreaſe, and fills the Nets and the Ships, and therefore let him have the Praiſe and follow him.</p>
+            <p>And here you may ſee the Fiſher-men and Seamen <hi>James</hi> and <hi>John,</hi> and <hi>Peter</hi> and <hi>Andrew,</hi> were Fiſhermen and Seamen, and Partners to<g ref="char:EOLhyphen"/>gether in Ships, and Preachers of Chriſt Jeſus, and catcht a Multitude of outward fiſh, and a Multitude of men, which they fiſh'd out of the great ſea of the World, by the Command and Power of Chriſt, <hi>Luke</hi> 5.2, 3, 4, 5, 6, 7, 8, 9, 10, 11. and <hi>Mat.</hi> 8.18.</p>
+            <p>
+               <hi>And after Chriſt was riſen, he ſhewed himſelf again to his Diſciples at the Sea of</hi> Tyberius, <hi>on this wiſe he ſhewed himſelf, There were to<g ref="char:EOLhyphen"/>gether</hi> Simon Peter, <hi>and</hi> Thomas <hi>called</hi> Didimus, <hi>and</hi> Nathaniel <hi>of</hi> Canaan <hi>in</hi> Galilee, <hi>and the Sons of</hi> Zebedee, <hi>and two other of his Diſ<g ref="char:EOLhyphen"/>ciples.</hi>
+            </p>
+            <p>Simon Peter <hi>ſaid unto them, I go a fiſhing, they ſay unto him, We alſo go with thee: They went forth and entered into a Ship immediately,
+<pb n="8" facs="tcp:36138:5"/>and that Night they caught nothing; but when the Morning was come, Jeſus ſtood on the Shore, but the Diſciples knew not that it was Jeſus: Then Jeſus ſaid unto them, Children, have ye any Meat? And they anſwered him, No; and he ſaid unto them, Caſt the Net on the right Side of the Ship and ye ſhall find, and they caſt therefore; and now they were not able to draw it for the Multitude of Fiſhes: Therefore that Diſ<g ref="char:EOLhyphen"/>ple whom Jeſus loved ſaid unto</hi> Peter, <hi>It is the Lord. Now when</hi> Simon Peter <hi>heard that it was the Lord, he girt his Fiſhers Coat unto him (for he was naked) and did caſt himſelf into the Sea, and the other Diſci<g ref="char:EOLhyphen"/>ples came in a little Ship) for they were not far from Land, but as it were two hundred Cubits) dragging the Net with Fiſhes: Aſſoon then as they were come to the Land, they ſaw a Fire of Coals there, and Fiſh laid thereon, and Bread; And Jeſus ſaid unto them, Bring of the Fiſh which ye have now caught, and</hi> Simon Peter <hi>went up and drew the Net to the Land full of great Fiſhes,</hi> &amp;c. <hi>And Jeſus ſaid unto them, Come and dine,</hi> &amp;c. <hi>And Jeſus then cometh and taketh Bread and giveth them, and Fiſh likewiſe,</hi> &amp;c. <hi>And this was now the third time that Je<g ref="char:EOLhyphen"/>ſns ſhewed himſelf after he was riſen from the dead,</hi> John 21.2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14.</p>
+            <p>And now all ye Fiſhermen and Sea-men and others, conſider what kind of Diſciples and Miniſters the Lord Jeſus Chriſt choſe; and you may ſee that <hi>Peter</hi> and the reſt, though they had been Diſciples of Chriſt Jeſus for ſome Years, and ſuch that Chriſt had ſent forth to preach before he was crucified, and after that he was riſen, Chriſt appeared the third time unto them; and <hi>Peter</hi> had his Fiſhers Coat, and the Diſ<g ref="char:EOLhyphen"/>ciples which were Fiſhermen and Seamen they were Partners together in a Ship.</p>
+            <p>And now, was this a fit Coat think you to preach the Goſpel in, and to meet Chriſt in, and to dine with him in? I ſay, Yes, as good as any of the <hi>Canonnical Garments.</hi>
+            </p>
+            <p>And conſider ye Fiſhermen and Seamen and others, how all theſe Diſciples had been fiſhing all the Night, but had caught nothing.</p>
+            <p>But when the Morning was come, and they ſaw Jeſus, after he was riſen, at his Command they caſt in the Net, and drew it full of fiſh to the Shore: So it is by the Will of God and Chriſt that every one doth catch, who made all things, and upholds all things by his word and pow<g ref="char:EOLhyphen"/>er, and fills all, and knows what all have need of; for as Chriſt ſaith, <hi>A Sparrow ſhall not fall to the Ground without the Will of the Father,</hi> ſo a fiſh cannot be caught in the Net without his Will.</p>
+            <pb n="9" facs="tcp:36138:5"/>
+            <p>And likewiſe you fiſhermen and ſeamen and others may ſee, that Jeſus by whom all things were made, had provided theſe fiſhermen and ſeamen, who were his Diſciples, a Fire, and Fiſh upon it, and Bread upon the Land, when they had been fiſhing in the Sea.</p>
+            <p>And therefore you may ſee, how that Chriſt that upholds all things, and hath all power given unto him provides for his Diſciples and Sea<g ref="char:EOLhyphen"/>men, and Fiſhermen; for he gave them both Fiſh in the Sea, and Fiſh [and Bread] upon the Land, whom he ſent forth, and gave Commiſſion to preach, and ſaid, <hi>Freely ye have received freely give.</hi>
+            </p>
+            <p>So here ye may all ſee, how the Diſciples of Chriſt were encou<g ref="char:EOLhyphen"/>raged to truſt in him, and that their minds might be carried over all Diſtruſt of carnal things and outward victuals.</p>
+            <p>And now ye Fiſhermen, and Seamen, and all others may ſee Chriſt's Words fulfilled unto his Diſciples, who ſaid unto them, <hi>Follow me, and I will make you Fiſhers of Men;</hi> for <hi>Peter</hi> at one Draught caught three Thouſand in God's Net; and ye may read <hi>Peter</hi>'s two Gene<g ref="char:EOLhyphen"/>ral Epiſtles which he freely gave forth.</p>
+            <p>And alſo ye may ſee <hi>John</hi> the Fiſherman a Diſciple of Chriſt, his Evangeliſts, his General Epiſtle, and his two Epiſtles, and his Re<g ref="char:EOLhyphen"/>velations: Come ye Seamen, and Fiſhermen, and others, and ſee what ye can ſay for Chriſt, that is the ſame to day, as yeſterday, and ſo forever; and come let us ſee what Nets ye have, if it be the Pow<g ref="char:EOLhyphen"/>er of God, that will pluck them out of the Sea of Wickedneſs.</p>
+            <p>And if the Seamen had taken <hi>Paul</hi>'s Counſel, when he ſaid, <hi>Sirs, I perceive that this Voyage will be for Hurt, and much Damage, not only of the Lading and Ship, but alſo of our Lives: But neither the</hi> Centurion, <hi>nor the Maſter believed</hi> Paul's <hi>Words, but his Words came to paſs,</hi> as you may ſee in <hi>Acts</hi> 27. But the Lord preſerved <hi>Paul</hi> and their Lives.</p>
+            <p>And ſo you may ſee it is not the ſeamans skill, but the Lord's Power, which all are to have faith in, and to obey him, by which they are ſaved and preſerved.</p>
+            <p>And <hi>James</hi> one of the fiſhermen, and an Apoſtle of Chriſt, in his <hi>General Epiſtle</hi> to the Twelve Tribes he ſaith, <hi>Behold we put Bits in the Horſes Mouthes, that they may obey us, and we turn about their whole Body: Behold alſo the Ships, which though they be ſo great, and are driven of fierce Winds, yet are they turned about with a very ſmall Helm, whither ſoever the Governour liſteth; even ſo the Tongue is a little Member, and boaſteth great things: Behold how great a matter a little Fire kindleth; and the Tongue is a Fire, a World of Iniquity,</hi> &amp;c.</p>
+            <pb n="10" facs="tcp:36138:6"/>
+            <p>And now mark all ye ſeamen, and all ye bridles of Horſes, and all others that tame other Creatures, ſee that you can bridle and tame your own Tongues. and turn about your Tongues in your paſſion, aſſoon as you do your Horſes; and aſſoon as you do your great Ships, when you turn them about: ſo ſee that you can ſo ſoon turn your Tongues when the fierce Winds of Paſſion are up; and tame your Tongues, leaſt that unruly Member defile your whole Bodies, and <hi>Set on fire the Courſe of Nature, and it is ſet on Fire of Hell,</hi> James 3. For can you tame Serpents, and all kind of Beaſts, and of Birds, and things in the Sea, and not tame your Tongue that unruly Member that is full of deadly Poyſon? Bridle it I ſay with God's Bridle (his Pow<g ref="char:EOLhyphen"/>er.)</p>
+            <p>
+               <hi>For The Tongue of the juſt is as choice Silver; and the Tongue of the wiſe is Health,</hi> Prov. 10.20. &amp; 12.18. <hi>The Tongue of the wiſe uſeth Knowledge aright; and a wholeſome Tongue is a Tree of Life,</hi> Prov. 15.2, 4. And <hi>in a Virtuous Woman's Tongue is the Law of Kind<g ref="char:EOLhyphen"/>neſs,</hi> Prov. 31.26.</p>
+            <p>And <hi>Paul</hi> an Apoſtle of Jeſus Chriſt, who made Tents with <hi>Priſ<g ref="char:EOLhyphen"/>cilla</hi> and <hi>Aquilla,</hi> and wrought with his Hands that he might not be chargeable to others, and he did not only maintain himſelf, but he alſo helped others, with his Labour, who had received his Goſpel, not from man, but by the Reveſation of Jeſus Chriſt, which he preached freely, as he had received of Chriſt freely, after Chriſt was riſen; for Chriſt had given his Command to his Twelve Diſciples be<g ref="char:EOLhyphen"/>fore he was crucified, <hi>Freely as they had received, freely give.</hi> And now conſider <hi>Matthew,</hi> who was called from his Cuſtom, and <hi>Luke,</hi> who was a Phiſitian and <hi>John</hi> the Fiſher-man, and <hi>Peter,</hi> and the reſt who were Diſciples of Chriſt; did not they give forth all their Evangliſts and Epiſtles freely, as they preached freely?</p>
+            <p>And did not <hi>Paul</hi> the Apoſtle of Chriſt who was a Tent-maker, who ſaid, of the <hi>Jews Five times I received Forty Stripes ſave One; Thrice was I beaten with Rods; Once was I ſtoned; Thrice I ſuffered Shipwrack; A Night and a Day I have been in the deep, in journying often, in Perils of Waters, in Perils of Robbers, in Perils of my own Country-men, in Perils by the Heathen, in Perils in the City, in Perils in the Wilderneſs, in Perils in the Sea, in Perils among falſe Brethren; in Wearineſs and Painfulneſs, in Watching often, in Hunger and in Thirſt, in Faſtings often, in Cold and Nakedneſs, &amp;c.</hi> as you may ſee in 2 <hi>Cor.</hi> 11.24, 25, 26, 27.</p>
+            <pb n="11" facs="tcp:36138:6"/>
+            <p>And this you ſee was the Condition of <hi>Paul</hi> an Apoſtle of Jeſus Chriſt that made Tents, beſides all his Impriſonments.</p>
+            <p>Now did not this Apoſtle preach freely, who ſaith, <hi>He laboured with his Hands that he might be an Example to others that follow him;</hi> ſo you may ſee that he did not ſit down in a great Benefice? And did not he give forth all his Epiſtles freely? And did not he give forth his Epiſtle to the <hi>Romans,</hi> and his two Epiſtles to the <hi>Corinthians,</hi> and his Epiſtle to the <hi>Galatians,</hi> and his Epiſtle to the <hi>Epheſians,</hi> and his Epiſtle to the <hi>Philipians,</hi> and his Epiſtle to the <hi>Coloſſians,</hi> and his two Epiſtles to the <hi>Theſſalonians</hi> freely? And ſaith, <hi>I charge you by the Lord that this Epiſtle be read unto all the Holy Brethren,</hi> as in 1 Theſ. 5.27. And <hi>Paul's</hi> two Epiſtles to <hi>Timothy,</hi> and one Epiſtle to <hi>Titus,</hi> and his Epiſtle to <hi>Philemon,</hi> and his Epiſtle to the <hi>Hebrews,</hi> and how that God in theſe laſt Days hath ſpoken to us (the true Church) by his Son, whom he hath appointed Heir of all things, by whom alſo he made the World.</p>
+            <p>Now conſider all People, did not all the Holy Prophets, and all the Holy Men of God give forth all their Books freely, from <hi>Adam</hi> to Chriſt, to be read, believed, practiſed and fulfilled; And did not all the Holy Apoſtles, and all the Holy Evangeliſts give forth all their Evangeliſts, Epiſtles and Revelations freely? and to be read, beli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<g ref="char:EOLhyphen"/>ed and practiſed? Or did they give them forth freely, that men after the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould make a Trade of them, and to have ſo much a Year for preaching of them, which they propheſied and preached freely, and gave forth freely?</p>
+            <p>And the Apoſtle doth not ſay, <hi>Preach his Epiſtles,</hi> but <hi>Read them,</hi> as in <hi>Col.</hi> 4.16. 1 <hi>Theſ.</hi> 5.27. and likewiſe the Lord ſaid, <hi>Thou ſhalt read my Law to all</hi> Iſrael <hi>in their Hearing,</hi> Deut. 31. And <hi>Iſaiah</hi> ſaith, <hi>Seek ye out of the Book of the Lord and read,</hi> &amp;c. And <hi>Jere<g ref="char:EOLhyphen"/>miah</hi> ſent <hi>Baruch</hi> to read his Book or Roll, <hi>Jer.</hi> 36.4, 5, 6. &amp;c. So both the Old and New Teſtament were given forth to be read, and believed, and to be obeyed, and fulfilled, as you may ſee in <hi>Ezra.</hi> 4.18. <hi>Nehem.</hi> 8.3. <hi>Jer.</hi> 29.19, <hi>Epheſ.</hi> 3.4, 5. <hi>Mat.</hi> 1.22. <hi>Luke</hi> 4.16. <hi>Mark</hi> 13.21. &amp; 14.49. <hi>Joh.</hi> 19.24, 28, 16. <hi>Acts</hi> 1.16.</p>
+            <p>Now is there more Money gotten by any one thing, then by preach<g ref="char:EOLhyphen"/>ing of the Scriptures, and ſome old Authors with them? Let it be caſt up in all Nations in <hi>Chriſtendom,</hi> and ſee how much their Reve<g ref="char:EOLhyphen"/>nues come to yearly, of ſuch that do not obey Chriſt's Doctrine, who ſaith, <hi>Freely ye have received freely give;</hi> nor fellow the Apoſtle <hi>Paul</hi>'s Example, <hi>To keep the Goſpel without Charge.</hi> And the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="12" facs="tcp:36138:7"/>ſaith, 1 <hi>Tim.</hi> 1.19. where the exhorts <hi>Timothy, To hold faſt his Faith and a Good Conſcience, which ſome having put away (concerning Faith) they have made Shipwrack.</hi> Now conſider this ye Seamen and others, when your Ships are wrackt what Condition you are in, you are fallen to pieces, you are broken, and many times in the Sea; ſo that ye have not Victory: And when you have made Shipwrack of Faith and a good Conſcience, then where are you, but ſplit in the Sea of the World, and the Wayes of the World go over your Heads, that you have no Victory: And therefore cenſider what Condition all the World is in, that ſay they have not Victory on this ſide the Grave; and they that muſt have a <hi>Purgatory,</hi> when they are dead? Have they not made Shipwrack of Faith and a good Conſci<g ref="char:EOLhyphen"/>ence, and are ſplit in the World the Sea who ſee no Faith, nor Victo<g ref="char:EOLhyphen"/>ry out of it and over it on this ſide the Grave; when as the Apoſtle ſaith, <hi>The Holy and precious Divine Faith, which Jeſus Chriſt is the Author and Finiſher of, it purifies their Hearts;</hi> and by it they are juſti<g ref="char:EOLhyphen"/>fied, and in it they pleaſe God; which Faith is their Victory, by which they have acceſs to God, over the World and out of its Sea.</p>
+            <p>And in <hi>Jer.</hi> 16.16. there ye may ſee, when the jews tranſgreſt the Law of God, and became worſe then their Fore Fathers, how they were then as in a Sea; For, <hi>Behold, I will ſend for many Fiſhers, ſaith the Lord, and they ſhall fiſh them; and I will ſend for many Hunters, and they ſhall hunt them from every Mountain, and from every Hill, and out of the Holes of the Rocks.</hi>
+            </p>
+            <p>So here you may ſee, men are called fiſh, and men are called Fi<g ref="char:EOLhyphen"/>ſhers; and then conſider, where is the fiſh, and where is the Sea; Is not the Sea the World which lies in Tranſgreſſion, and Rebellion againſt the Spirit of God? And ſuch as make Ship-wrack of Faith and a good Conſcience, are they not in it? <hi>Jer.</hi> 16, 17. chapters.</p>
+            <p>But ſaith the Prophet, <hi>Thou art</hi> (to wit, the Lord) <hi>of Purer Eyes then to behold Evil, that canſt not look on Iniquity: Wherefore lookeſt thou upon them that deal treacherouſly, and holdeſt thy Tongue when the Wicked devoureth the Man that is more Righteous then he, and makeſt Men as Fiſhes of the Sea, and as the creeping things that have no Rule over them: They take up all of them with the Angle, they catch them in their Nets, and gather them in their Drags; therefore they rejoyce and are glad; therefore they ſacrifice unto their Net, and burn Incenſe unto their Drag, and becauſe by them their Portion is fat, and their Meat plenteous, &amp;c.</hi> Here is the wicked mens fiſhing, and the wicked mens Sacrifice, which is not to be followed.</p>
+            <pb n="13" facs="tcp:36138:7"/>
+            <p>And in <hi>Jonah</hi> 2. there you may ſee <hi>Jonah</hi>'s Prayer, and the ſted<g ref="char:EOLunhyphen"/>faſtneſs of his Faith, which he had, and prayed to the Lord God out of the Fiſhe's Belly, <hi>Jonah</hi> 2. thoughout.</p>
+            <p>And you may ſee the Cauſe of <hi>Jonah's</hi> caſting into the Sea, how that it was for his Diſobedience; for when the Lord commanded him to go to <hi>Nineveh,</hi> to preach Repentance to it, he fled away, and went to <hi>Joppa,</hi> and found a Ship, and ſo paid the Fare thereof, and went down into it to go from thence to <hi>Tarſhiſh,</hi> from the preſence of the Lord, <hi>But the Lord ſent out a great Wind in the Sea, and there was a might) Tempeſt in the Sea, ſo that the Ship was like to be broken: and then the Mariners were afraid, and caſt Lots, and the Lot fell upon</hi> Jo<g ref="char:EOLhyphen"/>nah <hi>to be caſt into the Sea; and when they had caſt him into the Sea, it ceaſed from raging.</hi>
+            </p>
+            <p>And now all ye Mariners, and Seamen, and Fiſher-men and others, whoſe Faith ſtands not in God, and Chriſt Jeſus the Author of it; when ye have Storms, and great Winds, and Tempeſts in the Sea then do not thou ſay, That ſome Witch or ill-tongued People have bewitched your Ship, and raiſed that Wind, or ſome ill tongued Body hath raiſed this Storm and Tempeſt.</p>
+            <p>And let <hi>New-England</hi> Profeſſors ſee if they be not guilty of this; and whether or no they have not ſometimes caſt ſome poor ſimple people into the Sea, in pretence of being Witches: And ſo let them and you ſee, that hold ſuch things, and believe ſuch things, if you be not in Diſobedience to the Power, Spirit and Faith of God, and in the Sin of Witchcraft your ſelves; For you may ſee, it was the Lord that ſent out the Wind, and raiſed that mighty Storm in the Sea, and not your witches, nor ill-tongued People, as you vainly imagine, as you may ſee <hi>Jonah</hi> 1.14. For if you were in the true ſaving Faith, which Chriſt Jeſus is the Author of, that Faith gives you Victory over the Devil, the Head of all your Witches, and brings you to have Acceſs to God, who makes a Storm, and makes a Calm.</p>
+            <p>For, <hi>Lo, He that formed the Mountains, and created the Winds</hi> (mark, the Winds) <hi>and declareth unto Man what is his Thoughts, this is the Lord,</hi> that created the Winds, not your Witches, <hi>Anos</hi> 4.13.</p>
+            <p>And <hi>It is the Lord, who layeth the Beams of his Chambers in the Waters, who makes the Clouds his Chariots, who walketh upon the Wings of the Winds,</hi> Pſalm. 104.3.</p>
+            <p>And the Lord commandeth and raiſeth up the ſtormy Wind, which lifteth up the Waves thereof, and not your Witches nor ill-tongued People.</p>
+            <pb n="14" facs="tcp:36138:8"/>
+            <p>And <hi>David</hi> ſaith, <hi>They that go down to the Seain Ships, that do bu<g ref="char:EOLhyphen"/>ſineſs in great Waters; theſe ſee the Works of the Lord, and his Wonders in the Deep; For he commandeth and raiſeth the ſtormy Wind, which lifteth up the Waves thereof: They mount up to the Heaven, they go down again to the Depths; their Soul is melted becauſe of Trouble: They reel to and fro, and ſtagger like a drunken man, and are at their Wits End; then they cry unto the Lord in their Trouble, and he bringeth them out of their Diſtreſſes. He maketh the Storm a Calm, ſo that the Waves thereof are ſtill; then are they glad, becauſe they be quiet; ſo he bringeth them unto their deſired Heaven. O that men would praiſe the Lord, for his Goodneſs, and for his Wonderful Works to the Children of Men,</hi> Pſalm 107.</p>
+            <p>So ye may ſee it is the Lord that commands and raiſeth the Winds and the Storms, and allayes them again, and not the Witches, or ill-tongued People; and that brings men to their deſired Haven both outward and inward.</p>
+            <p>And again, <hi>David</hi> ſaith, <hi>He</hi> (to wit, the Lord,) <hi>cauſeth the Vapours to aſcend from the Ends of the Earth; He maketh Lightnings for the Rain, He bringeth the Winds out of his Treaſure,</hi> Pſalm. 105.7.</p>
+            <p>And now mark all ye Seamen, when ye have Wind that maketh a Storm in the Sea, the Lord hath brought it out of his Treaſure: But the diſobedient and rebellious againſt God's Power, Spirit and Faith, and Enemies to his Truth and People ſay, when a Storm or Wind is raiſed in the Sea, ſome Witch, or ſome ill-tongued People have raiſed it; and theſe are erred from the true Faith as <hi>David</hi> was in, who ſaid, <hi>Whatſoever the Lord pleaſeth, that does he, in Heaven, and in the Earth, and in the Sea, and all deep Places,</hi> Pſalm 105 7.</p>
+            <p>And <hi>God cauſes the Winds to blow, and the Waters to flow,</hi> Pſalm 147.18.</p>
+            <p>And <hi>David</hi> ſaith, <hi>Fire, and Rain, and Snow, and Waters, and Winds fulfil God's Words.</hi> Pſal. 148.8.</p>
+            <p>And now if the Witches raiſe the Storms and the Winds, then the Winds and Storms muſt fulfil your Witches words, and ill-ton<g ref="char:EOLhyphen"/>gued People; But the Storms and the Winds fulfil God's Word; and he raiſeth up a Storm or a Wind, that walks upon the Wings of the Wind. And your Witches cannot come into Gods Treaſure, to fetch his Wind out there; for they be out of his power. Nay have not ſome of your Faithleſs Seamen, and you that think ſo, pretended to buy winds; Oh Darkneſs and Ignorance, and a Shame to Chriſtianity! You are like to the Coluds and Winds without Rain,
+<pb n="15" facs="tcp:36138:8"/>and wells without water, and Trees without Fruit, as you may ſee in, <hi>Prov.</hi> 25.14. and in <hi>Jude</hi>
+            </p>
+            <p>
+               <hi>Who hath gathered the Winds in his Fiſt? Who hath bound the Wa<g ref="char:EOLhyphen"/>ters in his Garment? Who hath eſtabliſhed all the Ends of the Earth? What is his Name, and what is his Son's Name, if thou canſt tell?</hi> Prov. 30.4. Who with thy dark Spirit imagines, that the Witches can fetch or pluck the Wind out of God's Fiſt. Oh abominable! It is much if the Lord doth not let his Wind fly at you, and raiſe a Storm againſt you, who are erred from the Faith of the Holy Men of God: For Chriſt commandeth the Winds and they obey him, <hi>Luke</hi> 8.25.</p>
+            <p>And where do you read in all the Scriptures, that the Witches raiſed Winds; or that any Seamen, did go to buy Winds of them? Let us ſee the Chapter and verſe for it; either among the People of God, or among the Heathen? and if you cannot, ſtop your Mouths of ſuch practiſes, and be aſhamed, for diſhonouring Chriſtianity, who are contrary both to the Law and Goſpel: And turn to the Lord, who walks upon the Wings of the Wind, and holds the Winds in his Fiſt, and can let them fly out in Blaſts to terrifie the wicked; but the juſt live by Faith in God and Chriſt, who is the Author of it; who makes the Storm a Calm, and commands the winds, and brings them out of his Treaſure at his Pleaſure: And the Righteous know, that the ſtormy Winds obey and fulfil God's Word.</p>
+            <p>And ſo the Righteous can praiſe the Lord that created the Winds, and all things in the Heaven and in the Earth, and in the Sea; and and renews man, by Chriſt, into his Image, and gives him Domi<g ref="char:EOLhyphen"/>nion over all; Praiſe and Glory, Honour and Thanks be unto the Lord, who is over all, from Everlaſting to Everlaſting.</p>
+            <p>And all the Faithful know, that <hi>A Sparrow ſhall not fall to the Ground without the Will of the Father,</hi> much more a Man, who is of greater Value then many Sparrows.</p>
+            <p>And therefore be not Faithleſs, but believe in Chriſt the Light, who commands the Winds and Storms; by whom all things were made and are upheld, by his Word and Power, <hi>Heb.</hi> 1.</p>
+            <p>The Law of thy mouth is better unto me, then thouſands of Gold and Silver, <hi>Pſa.</hi> 119.71.</p>
+            <closer>
+               <signed>G. F.</signed>
+               <dateline>Swarth-Moor <hi>in</hi> Lanca<g ref="char:EOLhyphen"/>ſhire, <date>
+                     <hi>the</hi> 28th <hi>of the</hi> 8th <hi>Month.</hi> 1676.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="16" facs="tcp:36138:9"/>
+            <head>Concerning how the World is called the <hi>SEA.</hi>
+            </head>
+            <p>ANd God will dry up <hi>Babylon's</hi> Sea, and make her Springs dry; for God brought them like a Sea over the <hi>Jews,</hi> when they tranſgreſs'd his Law, and went from the Lord their Rock and Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And again it is ſaid, <hi>The Sea ſhall come upon</hi> Babylon, <hi>and ſhe ſhall be covered with the Multitude of her Waves.</hi> — So when the <hi>Medes</hi> and <hi>Perſians</hi> came upon <hi>Babylon,</hi> then the Sea came over them, and the <hi>Jews</hi> had their Liberty, <hi>Jer,</hi> 15.42.</p>
+            <p>So <hi>Spiritual Babylon</hi> is the Mother of Harlots, ſhe ſits upon the Waters, which are Nations, peoples and Tongues; But God will dry up her Waters, which have overflown ſince the Apoſtles Days; who hath perſecuted the people of God: And out of her Sea hath riſen the great ſtorms of perſecution, and the Beaſt which roſe out of the Sea, with his ſtorms of perſecution.—And it is the power of Darkneſs, which keeps the people in ſpiritual <hi>Aegypt, Sodom</hi> and <hi>Babylon,</hi> in this Sea.</p>
+            <p>
+               <hi>But in Chriſt's peaceable Kingdom, and on his Holy Mountain, the Wolf ſhall dwell with the Lamb, and the Leepard ſhall lie down with the Kid, and the Calf, and the Young Lyon, and the Fatling together; and a little Child ſhall lead them.</hi>
+            </p>
+            <p>
+               <hi>And the Cow and the Bear ſhall feed, their Young Ones ſhall lie down together; and the Lyon ſhall eat Straw like an Ox.</hi>
+            </p>
+            <p>
+               <hi>And the Suckling-Child ſhall play on the Hole of the Aſp; and the weaned Child ſhall put his Hand on the Cockatrice Den.</hi>
+            </p>
+            <p>
+               <hi>They ſhall not hurt, nor deſtroy in all my Holy Mountain, for the Earth ſhall be full of the Knowledge of the Lord, as the Waters cover the Sea.</hi>
+            </p>
+            <p>
+               <hi>And in that Day there ſhall be a Root of</hi> Jeſſe, <hi>which ſhall ſtand up for an Enſign of the People; to it ſhall the Gentiles ſeek, and his Reſt ſhall he Glorious.</hi>
+            </p>
+            <pb n="17" facs="tcp:36138:9"/>
+            <p>And this is Chriſt, who ſets up his Enſigne for the Nations, and ſhall aſſemble the Out-caſts of <hi>Iſrael,</hi> and gather together the diſper<g ref="char:EOLhyphen"/>ſed of <hi>Judah,</hi> from the four Corners of the Earth.</p>
+            <p>So he gathers them with his power, Spirit and Light: and his En<g ref="char:EOLhyphen"/>ſigne is not ſet up for the <hi>Jews,</hi> or a Nation only, but for all Nations in general; <hi>Who enlightens every Man that comes into the World,</hi> that with his Light they may ſee him and his Enſigne, Chriſt the Hea<g ref="char:EOLhyphen"/>venly and Spiritual Man.</p>
+            <p>So the Gathering of all Nations is unto him, by his Heavenly Light which he enlightens them withal.</p>
+            <p>
+               <hi>And the Lord ſhall utterly deſtroy the Tongue of the</hi> Aegyptian <hi>Sea, and with his mighty Wind ſhall he ſhake his Hand over the River, and ſhall ſmite it in the ſeven Streams, in the Perfection of it, and men ſhall go over dry-ſhod,</hi> Iſa. 11.</p>
+            <p>And the Lord will deſtroy in this Mountain, the Face of the Co<g ref="char:EOLhyphen"/>vering that is caſt over all people, and the Vail that is ſpread over all Nations (mark, all Nations) not a Nation: That all people may ſee the Salvation of God, which the Light which comes from Chriſt their Saviour; and if they do not believe in it, it will be their Condemnation.</p>
+            <p>And this Covering muſt be taken off all people before the Know<g ref="char:EOLhyphen"/>ledge of the Lord covers the Earth, as the Waters cover the Sea.</p>
+            <p>For the Beaſt had his power from the Dragon, and the Whore is erred from Chriſt the Truth: And <hi>Aegypt</hi> in the Spirit, and the ſpi<g ref="char:EOLhyphen"/>ritual <hi>Aegyptians</hi> will ſay, Who is God, or his Son the Light, that they ſhould obey him? (like the old <hi>Aegyptian</hi>) and Chriſt was crucified in ſpiritual <hi>Sodom</hi> and <hi>Aegypt.</hi>
+            </p>
+            <p>So here the <hi>Jews, Scribes, Phariſees</hi> and <hi>High-Prieſts,</hi> who cruci<g ref="char:EOLhyphen"/>fied Chriſt without the Gates at <hi>Jeruſalem,</hi> are called ſpiritual <hi>Aegypt</hi> and <hi>Sodom,</hi> who are the greateſt profeſſors in the World. But Chriſt is the Enſigne ſet up to the Nations, who ſtilleth <hi>Myſte<g ref="char:EOLhyphen"/>ry Babylon</hi>'s ſea; and after <hi>Babylon</hi> is fallen, and the Seas dryed up, then the New Heaven, and the New Earth is ſeen; for the Firſt Heaven and Firſt Earth were paſſed away, and then there was no more Sea. So when the firſt Heavens, and the firſt Earth are paſſed away, then the New Earth and the New Heavens are ſeen; and here is ſeen <hi>the Holy City, New Jeruſalem, prepared as a Bride for her Husband</hi> Chriſt.</p>
+            <p>And here is the firſt and laſt ſeen, their Husband Chriſt; and the Marriage of the Lamb is come.</p>
+            <pb n="18" facs="tcp:36138:10"/>
+            <p>
+               <hi>And the force of the</hi> Gentiles <hi>ſhall come to his Light, and abundanc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Sea ſhall be converted unto Chriſt,</hi> Iſa. 60.</p>
+            <p>So here is Abundance of the world, which is called the Sea, that ſhall be converted to Chriſt Jeſus; for the <hi>Gentiles</hi> are the Nations, and the <hi>Gentiles</hi> ſhall come to Chriſt's Light, from the Sea the world: For Nations and Tongues are called Waters.</p>
+            <p>And <hi>The Sea ſaith, Wiſdom is not in me,</hi> Job. 28. Now the Wiſ<g ref="char:EOLhyphen"/>dom that is pure, is from above the Sea, and them that fear God receive it.</p>
+            <p>
+               <hi>And he ſhall paſs through the Sea with Afflictions, and ſhall ſmite the Waves of the Sea; and all the Deeps of the Rivers ſhall be dried up: And the Priae of</hi> Aſſyria <hi>ſhall be brought down, and the Scepter of</hi> Egypt <hi>ſhall depart away.</hi>
+            </p>
+            <p>
+               <hi>And Chriſt's Scepter ſhall be ſet up, his Scepter is a Scepter of Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> Zach. 10.11.</p>
+            <p>
+               <hi>Thu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaith the Lord, which maketh a Way in the Sea, and the Path in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mighty Waters, that this People may paſs, Glory to his Name for ever,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. 43.</p>
+            <p>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Lord ſaith, <hi>When I came, was there no Man? When I cal<g ref="char:EOLhyphen"/>led, was there none to anſwer? Is my Hand ſhortened at all, that I can<g ref="char:EOLhyphen"/>not rede<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, or have I no Power to deliver? Behold, at may Rebuke I dry up the Sea.</hi> And here the great Power of God and Chriſt is ſeen, <hi>Iſa.</hi> 50. The wicked are compared to a troubled Sea, when it cannot reſt, whoſe Waters caſt up Mire and Dirt; their Waters are foul.</p>
+            <p>
+               <hi>There is no peace to the wicked, ſaith my God,</hi> for they are always roaring, and wallowing, and making a Noiſe, <hi>Iſa.</hi> 1.57.</p>
+            <p>And the Cruel People that have no Mercy, their Voice roars like a Sea, as in <hi>Jer,</hi> 6.23. This Sea, this Mercileſs cruel People, which is like a roaring Sea, was to come over the <hi>Jews</hi> for diſobeying the Lord: and therefore for all People to believe in the Light, that Chriſt hath enl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghtened you withal, and walk in the Light that you may ſee Chriſt the Rock, and build upon him, who is ſure againſt all weather Storms.</p>
+            <p>And Chriſt will bruiſe the Head of the Serpent, for the Lord with his ſore and great and ſtrong Sword, ſhall puniſh <hi>Leviathan</hi> the pierc<g ref="char:EOLhyphen"/>ing <hi>Serpent;</hi> even <hi>Leviathan</hi> that crooked <hi>Serpent</hi> which makes the World (both men and women) crooked.</p>
+            <pb n="19" facs="tcp:36138:10"/>
+            <p>And he ſhall ſlay the Dragon that is in the ſea (mark, in the <hi>Sea</hi>) for his Habitation is in the wicked like a roaring <hi>Sea,</hi> and they plead for him and his ſin till they go to the Grave, and not for Chriſt that bruiſeth his Head; and the Lord that deſtroys him with his great ſword.</p>
+            <p>But they that plead for Chriſt, <hi>Can ſing unto the Lord of his Vine<g ref="char:EOLhyphen"/>yard; for the Lord doth keep it,</hi> and will water it every Moment, leſt any hurt it: <hi>I will keep it Night and Day,</hi> ſaith the Lord, Glory to his Name for ever, who is the Keeper of his People, and this we witneſs who are his Vineyard, as in <hi>Iſaiah</hi> 27.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>DAvid</hi> ſaith, in the Lords hands are the deep places of the Earth, the Strength of the Hills, and the height of the Hills his his alſo, and the Sea is the Lords, and he made it: and his hands formed the dry Land, O come, let us worſhip, and bow down, let us kneel be<g ref="char:EOLhyphen"/>fore the Lord our Maker; for he is our God, and we are the people of his Paſture, and the ſheep of his hand; hear his Voice this day, who ſpeaks to you by his Son Chriſt Jeſus, <hi>Pſalm</hi> 95. <hi>Heb.</hi> 1.3.</p>
+            <p>
+               <hi>David</hi> ſaith, The Floods have lifted up, O Lord, the floods have lifted up their Voice. The Lord on high is mightier then the noiſe of many Waters, yea, then the mighty waves of the Sea, <hi>Pſa.</hi> 93. So in all outward ſtorms, floods, and waves, whether they be from the outward Sea, or the ſeas of the World, you are to look unto the Lord, who is mightier and higher then them all, and can deliver from them all.</p>
+            <p>The Lord he commandeth and raiſeth the ſtormy wind, which liſt<g ref="char:EOLhyphen"/>eth up the waves thereof; then do men cry unto the Lord in their troubles, and he brings them out of their diſtreſſes: for he maketh a ſtorm and a Calm, ſo that the waves thereof are ſtill; then are they glad becauſe they be quiet, So he brings them unto their de<g ref="char:EOLhyphen"/>ſired Haven; for God can turn Rivers into a Wilderneſs, and the
+<pb n="20" facs="tcp:36138:11"/>water ſprings into dry Land. So in all ſtorms and winds, whether they be the outward Sea, or ſeas of the World, or troubles with<g ref="char:EOLhyphen"/>in, you are to cry unto the Lord who is able to bring you out of all diſtreſſes, and ſave you, and bring you to your deſired Haven. For the Lord may raiſe up a ſtormy wind, and to try his people may make a ſtorm a Calm; and they that go down to the Sea in Ships, that do buſineſs in great waters: theſe ſee the works of the Lord, and his wonders in the deep. O that men would praiſe the Lord for his goodneſs, and for his wonderful works to the Children of men, <hi>Pſalm</hi> 107.</p>
+            <p>And again, in <hi>Pſalm</hi> 89.8, 9. O Lord God of Hoſt, who is a ſtrong Lord like unto thee? <hi>&amp;c.</hi> thou ruleſt the raging of the Sea, when the waves thereof ariſe, thou ſtilleſt them.</p>
+            <p>So all are to look unto the Lord, and truſt in him who is the ſtrong God all ſufficient, who ruleth the raging of the Sea, when the waves thereof do ariſe, and ſtilleth them.</p>
+            <p>And <hi>David</hi> ſaith, The waters ſaw thee, O God, and they were afraid, and the depths were troubled, <hi>Pſalm</hi> 77.16.</p>
+            <p>Here they that truſt in the Lord may ſee his authority, and pow<g ref="char:EOLhyphen"/>er, for the Lord he brought ſtreams out of the Rock, and cauſed the waters to run down like Rivers to refreſh his People; and he di<g ref="char:EOLhyphen"/>vided the Sea, and cauſed his people to paſs through, and he made the waters to ſtand on heaps, <hi>Pſalm</hi> 78.</p>
+            <p>And again <hi>David</hi> ſaith, Thy way is in the Sea, (namely) the Lord, and thy path is in the great waters: therefore all are to mind the Lords preſence where ever they are, <hi>Pſal.</hi> 77.19.</p>
+            <p>And <hi>David</hi> ſaith, Praiſe him (namely) the Lord, ye Heavens of Heavens, ye waters, and all deeps, ſtorms, winds, fulfill his word, his glory is above the Earth and Heaven; For his name alone is excellent, <hi>Pſalm</hi> 140.</p>
+            <p>And <hi>David</hi> ſaith, the Lord by his ſtrength ſetteth faſt the Moun<g ref="char:EOLhyphen"/>tains, being guided with power, which ſtilleth the noiſe of the Sea, the noiſe of the Waves, and the tumults of the People, <hi>Pſal.</hi> 65.6, 7. Therefore are all your eyes to be unto the ſtrong God, who can ſtill the noiſe and waves of the Sea, and the tumults of the people, whoſe power is over all.</p>
+            <p>And in <hi>Pſal.</hi> 33.6, 7. By the word of the Lord were the Heavens made, and all the hoſts of them, by the breath of his Mouth he gathered the waters of the Sea together, as an heap, he layeth up the depth in ſtore Houſes.</p>
+            <pb n="21" facs="tcp:36138:11"/>
+            <p>Here you may ſee the mighty God in his eternal power, and truſt in him; for he ruleth by his power for ever. His eyes beholds the Nations, who turneth the Sea into dry land, by the greatneſs of his power; that his people went through on foot, <hi>Pſal,</hi> 66.6.</p>
+            <p>Therefore, O that men would truſt in the Lord God, that chang<g ref="char:EOLhyphen"/>eth not, for upon the wicked, the Lord ſhall rain Snares, ſire, and Brimſtone, and a horrible tempeſt; this ſhall be the portion of the Cup of the wicked, for the wicked and him that loves violence, Gods ſoul hates, and therefore take heed of violence and wickedneſs.</p>
+            <p>And <hi>Elihu</hi> ſaith in <hi>Job.</hi> 36.26.27, 28.30. Behold God is great, <hi>&amp;c.</hi> he maketh ſmall the drops of the water, and poureth down rain, <hi>&amp;c.</hi> and covereth the bottom of the Sea, therefore it is good to be<g ref="char:EOLhyphen"/>hold the Lord in his works.</p>
+            <p>And the Lord ſhut up the Sea with doors, <hi>&amp;c.</hi> Job. 28.30. Who hath divideth the water courſe for the overflowing of waters, <hi>Job.</hi> 38. and <hi>Job</hi> ſaith, He bindeth up the waters in the thick Clouds, and the cloud is not rent under them, he compaſſeth the waters with Bounds; he divideth the Sea with his power, and by his under<g ref="char:EOLhyphen"/>ſtanding the ſmiteth through the proud, <hi>Job.</hi> 26.</p>
+            <p>And again, <hi>Job.</hi> ſaith, Which alone ſpreadeth out the Heaven (namely) the Lord, and treadeth upon the waves of the Sea, <hi>Job.</hi> 9.8.</p>
+            <p>Here you may ſee the great and wonderful God, Heaven is his throne, and Earth is his Footſtool; and he treads upon the Waves of the Sea, who dwells with a humble heart, who beholds the Lord, and can ſay, Heaven is his throne, and the Earth is his Footſtool, who treads upon the waves of the Sea. So they are not afraid of the waves, or ſtorms, or winds, that may ariſe upon the Sea, or Land; but fear the Lord that hath the winds in his hand: and makes a ſtorm a Calm, and treads upon the waves of the Sea, who made it and the Earth, his footſtool, Glory, and Honour, be unto the Lord God almighty forever; who reigns over all his works, and they praiſe him.</p>
+            <p>And <hi>Solomon</hi> ſaith (<hi>Prov.</hi> 8.29.) God eſtabliſhed the clouds a<g ref="char:EOLhyphen"/>bove, he ſtrengthened the foundation of the deep, and gave to the Sea its decree, that the waters ſhould not paſs his Commandment, <hi>&amp;c.</hi> And ſo here you may ſee the great and mighty God, his decree and Commandment over the waters, who is to be ſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved, worſhipped, and feared, <hi>Prov.</hi> 8.28, 29. <hi>Gen.</hi> 1.9, 10. <hi>Job.</hi> 38.10.11. <hi>Pſalm</hi> 104.9.</p>
+            <pb n="22" facs="tcp:36138:12"/>
+            <p>Who hath gathered the wind in his fiſt? Who hath bound the waters in a Garment? Who eſtabliſheth the ends of the Earth? <hi>Prov.</hi> 30.4. And again <hi>David</hi> ſaith, Who laid the beams of his Cham<g ref="char:EOLhyphen"/>bers in the waters? Who maketh the clouds his Chariots? VVho walketh upon the wings of the VVind (namely) the great God? VVho is cloathed with honour and Majeſty, <hi>Pſalm</hi> 104.</p>
+            <p>And <hi>Iſaiah</hi> ſaith, the Lord who hath meaſured the waters in the hollow of his hand, and meteth out the Heavens with a ſpan; and comprehends the duſt of the Earth in a meaſure, <hi>Iſaiah</hi> 40.12.</p>
+            <p>Here you may ſee the infinite, glorious, eternal, incomprehenſible God, in his infinite power. And the Lord ſaith, to his faithful people to encourage them, when thou paſſeth through the waters I will be with thee, and through the rivers they ſhall not overflow thee; when thou walkeſt through the fire, thou ſhall not be burnt, neither ſhall the flame kindle upon thee, thus ſaith the Lord, who makes a way in the Sea, and a path in the mighty waters, <hi>Iſaiah</hi> 43.2 16. verſe.</p>
+            <p>Here you may ſee how the Lord comforteth his people with his promiſes, to belive and truſt in him who is God all ſufficient.</p>
+            <p>The Lord ſaith, wo to the multitude of many people, which make a noiſe like the noiſe of the Sea; and to the ruſhing of many Nati<g ref="char:EOLhyphen"/>ons that make a ruſhing like the ruſhing of mighty Waters, the Nations ſhall ruſh like the ruſhing of many waters; but God ſhall rebuke them, and they ſhall fly far of, and ſhall be chaſed like the Chaff on the Mountains before the wind, and like a rolling thing be<g ref="char:EOLhyphen"/>fore the whirlwind, <hi>Iſaiah</hi> 17.12, 13.</p>
+            <p>Here you may ſee the end of theſe Chaffy ruſhing noiſes like the Seas, and waters whom the Lord rebukes and Scatters; and the Lord is a ſtrength to the poor and needy in their diſtreſſes, and a refuge from the ſtorm, and a ſhadow from the heat, <hi>&amp;c. Iſaiah</hi> 25.4. And therefore it is good to truſt in the Lord.</p>
+            <p>And <hi>Iſaiah</hi> ſaith, Wo to the crown of pride, to the drunkenneſs of <hi>Ephraim,</hi> whoſe glorious beauty is as a fading flower, <hi>&amp;c.</hi> Be<g ref="char:EOLhyphen"/>hold the Lord hath a mighty and a ſtrong one, which as a tempeſt of hail, a deſtroying ſtorm, as a flood of mighty waters overflow<g ref="char:EOLhyphen"/>ing ſhall caſt down to the Earth with his hand, <hi>Iſaiah</hi> 28.2.</p>
+            <p>Here you may ſee the tempeſt, and ſtorm, and the mighty over<g ref="char:EOLhyphen"/>flowing waters, God brings upon the Drunkards, Proud, and Wick<g ref="char:EOLhyphen"/>ed, though they be upon the Land; and likewiſe you may ſee the ſame in <hi>Iſaiah</hi> 19.6.</p>
+            <pb n="23" facs="tcp:36138:12"/>
+            <p>But they that hearken to the Lords Commandments, and obey him, their peace ſhall be as a River; and their righteouſneſs as the waves of the Sea, <hi>Iſaiah</hi> 48.17,</p>
+            <p>And <hi>Amos</hi> ſaith, ſeek ye the Lord and ye ſhall live, leaſt he break out like a fire, <hi>&amp;c.</hi> that calleth for the waters of the Sea, and pour<g ref="char:EOLhyphen"/>eth them upon the face of the Earth; the Lord is his name, <hi>Amos</hi> 5.6.8. Here you may ſee the waters of the Sea obey the Lord, there<g ref="char:EOLhyphen"/>fore ſurely man ought to ſeek him and obey him.</p>
+            <p>And the Lord ſaith, though they dig into Hell, thence ſhall my hand take them; thence they climbe up to Heaven, thence will I bring them down: and though they hide themſelves in the top of Carmel, I will ſearch and take them from thence; though they be hid in the bottom of the Sea, thence will I command the Serpent and he ſhall bite them.</p>
+            <p>And here you may ſee the wicked and diſobedient, and rebelli<g ref="char:EOLhyphen"/>ous, cannot hide themſelves from the Lord, who ſearches the hearts, and tryes the reins and will find them out, and reward every one according to their works, <hi>Amos</hi> 9.2, 3.</p>
+            <p>And <hi>Nahum</hi> ſaith (<hi>Nahum</hi> 1.4.) the Lord rebukes the Sea, and dryes up all Rivers; here the wicked are compared to a Sea, and Rivers, and the Lord will not acquit the wicked who hath his way in the whirlwind and in the ſtorm, and the clouds are the duſt of his feet.</p>
+            <p>Here the Lords people know his way in the whirlwind, and in the ſtorm, let it be in the outward ſea, or the ſtorm and whirlwind, the wicked raiſe; or the ſtorm and whirlwind the Lord brings upon the wicked. His people can praiſe him, who is over all and above all, and can ſay thou art Lord alone, that hath made Heaven, the Hea<g ref="char:EOLhyphen"/>ven of Heavens, with all their hoſt, ye Earth and all things that are therein, the Sea and all that is therein thou preſerveſt them all, and the hoſt of Heaven worſhipeth thee, <hi>Nehemiah</hi> 6.</p>
+            <p>And you may ſee in <hi>Joſhua</hi> 3.15, 16. and <hi>Joſ.</hi> 4.23. How the Lord dryed up the waters of <hi>Jordan,</hi> and made them ſtand on heaps as he did the red Sea. So the Lord can dry up the Rivers of Judg<g ref="char:EOLhyphen"/>ment for his People to paſs to the Land of the living; as he did who did dry up the red Sea and the River of <hi>Jordan,</hi> for his people to paſs into the land of <hi>Canaan.</hi>
+            </p>
+            <p>And in <hi>Gen.</hi> 1.26.28. You may ſee what dominion God gave to Man and Woman while they obeyed, ſerved and hearkned unto him. And the Lord reproved the Jews for their Idolatry and perverſneſs,
+<pb n="24" facs="tcp:36138:13"/>and corruption; and told them they had eyes and ſaw not, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ars, and heard not, and called them a fooliſh people, and ſaid unto them fear ye not me ſaith the Lord; will ye not tremble at my preſenc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Which hath placed the ſands for the bounds of the Sea, by a perpe<g ref="char:EOLhyphen"/>tual decree, that it cannot paſs it, and through the waves thereof toſs themſelves; yet can they not prevail though they roar yet can they not paſs over it, <hi>Jer.</hi> 5.22.</p>
+            <p>Here you may ſee the decree and bound that God hath ſet on the outward ſea, and his decree and bound is ſet to the world, the ſea of wickedneſs that it cannot paſs over his elect and choſen people in Chriſt Jeſus.</p>
+            <p>And the Lord God ſaid, O <hi>Tyrus</hi> I am againſt thee, and will cauſe many waters to come up againſt thee, as the ſea cauſeth his waves to come up, and was not this ſea the King of <hi>Babylon,</hi> which the Lord did bring upon <hi>Tyrus</hi> for their inſulting againſt <hi>Jeruſalem;</hi> and you may ſee what a deſtruction the Lord brought upon them, and upon their Mariners, and men of War, in <hi>Ezek.</hi> 26.28. And what judgments God brought upon them for their height and pride. And in <hi>Ezek</hi> 30. you may ſee the deſolation of <hi>Aegypt</hi> and her help<g ref="char:EOLhyphen"/>ers, and the Lord ſaith, they ſhall know that I am the Lord, when I have ſet a fire on <hi>Aegypt;</hi> in that day ſhall meſſengers go forth from me on Ships, to make the careleſs <hi>Ethiopians</hi> afraid, <hi>&amp;c.</hi> Here you may ſee how the Lord doth terrifie the <hi>Ethiopians,</hi> and <hi>Aegptians</hi> for their Pride and Careleſneſs; therefore it is good to be diligent, and ſerve the Lord in humility, and live in his fear.</p>
+            <p>He that formeth the Mountains, and createth the winds, and de<g ref="char:EOLhyphen"/>clareth unto man what is his thought, <hi>&amp;c.</hi> the Lord of Hoſt is his Name, <hi>Amos</hi> 4.13.</p>
+            <p>And <hi>John</hi> ſaid, I ſaw another Angel fly in the midſt of the Heaven having the everlaſting Goſpel to preach unto them that dwell on the Earth, and to every Nation, and Kindred, and Tongue, and Peo<g ref="char:EOLhyphen"/>ple; ſaying with a loud voice fear God and give glory to him, for the hour of his Judgment is come, and worſhip him that made Hea<g ref="char:EOLhyphen"/>ven and Earth, and the Sea; and the fountains of waters, <hi>Rev.</hi> 14.6.7. And ſo here you may ſee it is the Angel that preaches the ever<g ref="char:EOLhyphen"/>laſting Goſpel, to them that dwell upon the Earth (which the Apo<g ref="char:EOLhyphen"/>ſtle calls the power of God, in <hi>Rom.</hi> 1.) to every nation and kindred, and tongue, and people; and therefore every nation, kindred, tongue, and people, muſt receive and obey this everlaſting Goſpel of Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
